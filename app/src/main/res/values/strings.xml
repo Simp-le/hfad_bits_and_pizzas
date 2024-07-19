@@ -7,4 +7,5 @@
     <string name="send">Send</string>
     <string name="question_type_of_pizza">Which type of pizza whould you like?</string>
     <string name="question_extras">Please choose any extras:</string>
+    <string name="pizza">Pizza</string>
 </resources>
