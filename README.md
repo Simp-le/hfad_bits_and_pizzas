@@ -2,7 +2,7 @@
 A demo application for working with Material Design.
 
 # Screenshots
-Main page (+ Toastbar when clicking on FAB):
+Main page (+ Toast when clicking on FAB):
 
 ![image](https://github.com/user-attachments/assets/b1fe38a3-5d36-4c4c-a158-13f0d518d327)
 
