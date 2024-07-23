@@ -1,5 +1,5 @@
 # Description
-A demo application for working with Material Design.
+A demo application for working with Material Design. View binding is used to link a fragment and its layout.
 
 # Screenshots
 Main page (+ Toast when clicking on FAB):
